@@ -1,3 +1,5 @@
+package heranca
+
 open class Dog {
     open fun sayHello() {
         println("wow wow!")
